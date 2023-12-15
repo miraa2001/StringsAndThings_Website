@@ -1,0 +1,29 @@
+
+
+.row {
+    display: flex;
+    position: relative;
+    width: 100%;
+    margin-right: -15px;
+    margin-left: -15px;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.col-lg-10{
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.col-lg-7,.col-sm-10 {
+    width: 100%;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+
